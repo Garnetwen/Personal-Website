@@ -6,4 +6,5 @@ https://www.figma.com/proto/gOQCOJsDNUGjU821LUuBx7/Personal-Website?node-id=0-1&
 2. the documentation will link to another html for the documentation for the coding process/inspiration (remember to change cursor)
 3. there will be a github website and a cv link for reviewing resume. ( cv will link to a html similar like documentation link)
    <br>
-Dec 18, trying to figure out how to use grid to show the layout
+Dec 19, trying to figure out how to use grid to show the layout
+![image](https://github.com/user-attachments/assets/11d48695-b3d0-4af4-8bb5-124b76bb06b6)
