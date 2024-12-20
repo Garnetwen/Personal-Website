@@ -8,3 +8,8 @@ https://www.figma.com/proto/gOQCOJsDNUGjU821LUuBx7/Personal-Website?node-id=0-1&
    <br>
 Dec 19, trying to figure out how to use grid to show the layout
 ![image](https://github.com/user-attachments/assets/11d48695-b3d0-4af4-8bb5-124b76bb06b6)
+
+Dec 20, I used layout:
+![11131734708174_ pic](https://github.com/user-attachments/assets/8df9343f-d629-4f9c-b2b9-7655f429b29a)
+
+I will start to do the poster today/tomorrow
