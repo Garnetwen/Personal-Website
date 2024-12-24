@@ -13,3 +13,4 @@ Dec 20, I used layout:
 ![11131734708174_ pic](https://github.com/user-attachments/assets/8df9343f-d629-4f9c-b2b9-7655f429b29a)
 
 I will start to do the poster today/tomorrow
+Starting on designing the poster
