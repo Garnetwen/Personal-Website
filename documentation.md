@@ -14,3 +14,6 @@ Dec 20, I used layout:
 
 I will start to do the poster today/tomorrow
 Starting on designing the poster
+my second poster: ![aliceWonderland](https://github.com/user-attachments/assets/10a94f2d-f359-4fc2-9d46-da43e2a0dda9)
+first poster: ![waterPalace](https://github.com/user-attachments/assets/d4c2a5c8-68a7-4b5f-ace6-ee0616e63b2b)
+
